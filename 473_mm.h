@@ -1,7 +1,7 @@
 // Authors: TAs of CMPSC473, Penn State
 // Contributors: Adithya Kumar (azk68), Jashwant Raj Gunasekaran (jqg5490)
 // Description: Header file for the memory management unit
-
+#include <signal.h>
 #ifndef _473_MM_H
 #define _473_MM_H
 
